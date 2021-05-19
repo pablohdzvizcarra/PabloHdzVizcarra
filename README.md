@@ -2,7 +2,7 @@
 
 - I am from Mexico
 - I use of multiple web technologies
-- Currently, learning more about Typescript and Go. 
+- Currently, learning more about Typescript , Java and Spring Boot. 
 - My email is pablourbanohdzvizcarra@gmail.com
 - I am interested in backend technologies, microservices, and AWS cloud computing.
 
@@ -17,10 +17,10 @@
 
 ### Basics and Learning
 
-[<img height="45" src="https://img.icons8.com/color/48/000000/vue-js.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/golang.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>]()
+[<img height="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]()
+[<img height="45" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>]()
 
 
 My personal website [here](https://pablo-hernandez-vizcarra.netlify.app/) 
