@@ -2,7 +2,7 @@
 
 - I am from Mexico
 - I use of multiple web technologies
-- Currently, learning Java, Spring Boot, Go and more. 
+- Currently, learning more about Typescript and Go. 
 - My email is pablourbanohdzvizcarra@gmail.com
 - I am interested in backend technologies, microservices, and AWS cloud computing.
 
@@ -19,7 +19,6 @@
 
 [<img height="45" src="https://img.icons8.com/color/48/000000/vue-js.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/golang.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>]()
 
