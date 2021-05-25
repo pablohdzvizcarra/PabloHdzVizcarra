@@ -21,6 +21,7 @@
 [<img height="45" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>]()
+[<img height="45" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>]()
 
 
 My personal website [here](https://pablo-hernandez-vizcarra.netlify.app/) 
