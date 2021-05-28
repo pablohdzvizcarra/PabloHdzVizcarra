@@ -8,7 +8,7 @@
 
 ### Technologies
 
-[<img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"/>]
+[<img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/typescript.png"/>]()
 [<img height="45" src="https://img.icons8.com/plasticine/100/000000/react.png"/>]()
 [<img height="45" src="https://img.icons8.com/color/48/000000/mongodb.png"/>]()
