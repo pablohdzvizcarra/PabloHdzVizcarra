@@ -2,7 +2,7 @@
 
 - I am from Mexico
 - I use of multiple web technologies
-- Currently, learning more about Typescript , Java and Spring Boot. 
+- Currently, learning more about Java and Spring Boot. 
 - My email is pablourbanohdzvizcarra@gmail.com
 - I am interested in backend technologies, microservices, and AWS cloud computing.
 
