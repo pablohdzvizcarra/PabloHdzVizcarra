@@ -1,28 +1,38 @@
-## Hello my name is Pablo!
+# Hi there, here Pablo 👋😁
 
-- I am from Mexico.
-- I use backend technologies and I love microservices architectures.
-- Currently, learning more about Microservices. 
-- My email is pablourbanohdzvizcarra@gmail.com
-- I am interested in backend technologies, microservices, and cloud computing.
+![Profile Views](https://komarev.com/ghpvc/?username=pablohdzvizcarra)
 
-### Technologies
+Welcome to my GitHub profile!
 
-[<img height="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/240/000000/kotlin.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/docker.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/linux.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>]()
-[<img height="45" src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png"/>]()
-[<img height="45" src="https://user-images.githubusercontent.com/55292284/177894968-77634e9a-9efb-4e85-a7e8-d7b6362b0256.jpg"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/240/000000/oracle-logo.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"/>]("https://developer.mozilla.org/es/docs/Web/JavaScript")
-[<img height="45" src="https://img.icons8.com/color/48/000000/typescript.png"/>]()
-[<img height="45" src="https://img.icons8.com/plasticine/100/000000/react.png"/>]()
-[<img height="45" src="https://img.icons8.com/color/48/000000/mongodb.png"/>]()
+I am a self-taught developer with a strong focus on working with Microservices architectures. I am particularly passionate about performance optimization, Clean Code principles, and Test Driven Development. Throughout my journey as a Software Developer, I have acquired knowledge through various channels including books, online courses, blogs, and YouTube. However, my current favorite method of learning is through reading books and exploring official technology documentation.
 
+Working in Agile environments where clean code practices are valued and appreciated is something that truly excites me. I strive to bring a more professional and efficient approach to the teams I work with, enabling them to respond quickly and effectively to any changes that arise.
 
+During my leisure time, I find great joy in reading engaging books and cherishing moments with my loving family, including my sons and wife.
 
-My personal website [here](https://pablo-urbano-hernandez-vizcarra.netlify.app/) 
+## About Me
+
+- 🔭 I’m currently working as a Software Developer
+- 🌱 I’m currently learning about Data Science and AI
+- 👯 I’m looking to collaborate on Data Engineering projects
+- 💬 Ask me about [Topic/Skill]
+- 📫 How to reach me: [Your Email](pablohdzvizcarra@icloud.com)
+
+## GitHub Stats
+
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablohdzvizcarra&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohdzvizcarra&layout=compact&theme=radical)
+
+## Contact Me
+
+- LinkedIn: [Pablo Hernandez LinkedIn](https://www.linkedin.com/in/pablo-urbano-hernandez-vizcarra-5aa691184/)
+- Medium Blog Post: [medium.com](https://medium.com/@pablohdzvizcarra)
+
+## Fun Facts
+
+- I love working in software products that have great clean code practices and following a test-driven development methodology.
+
+Feel free to explore my repositories and reach out if you want to collaborate on any projects!
