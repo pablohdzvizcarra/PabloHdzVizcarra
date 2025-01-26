@@ -20,11 +20,11 @@ During my leisure time, I find great joy in reading engaging books and cherishin
 
 ## GitHub Stats
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablohdzvizcarra&show_icons=true&theme=radical)
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablohdzvizcarra&show_icons=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohdzvizcarra&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohdzvizcarra)
 
 ## Contact Me
 
