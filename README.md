@@ -16,7 +16,7 @@ During my leisure time, I find great joy in reading engaging books and cherishin
 - 🌱 I’m currently learning about Data Science and AI
 - 👯 I’m looking to collaborate on Data Engineering projects
 - 💬 Ask me about [Topic/Skill]
-- 📫 How to reach me: [Your Email](pablohdzvizcarra@icloud.com)
+- 📫 How to reach me: pablohdzvizcarra@icloud.com
 
 ## GitHub Stats
 
