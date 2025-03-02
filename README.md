@@ -12,10 +12,10 @@ During my leisure time, I find great joy in reading engaging books and cherishin
 
 ## About Me
 
-- 🔭 I’m currently working as a Software Developer
-- 🌱 I’m currently learning about Data Science and AI
-- 👯 I’m looking to collaborate on Data Engineering projects
-- 💬 Ask me about [Topic/Skill]
+- 🔭 I’m currently working as a Software Engineer
+- 🌱 I’m currently learning more about Java and Storage Virtualization Technologies like RAID
+- 👯 I’m looking to collaborate on Java projects
+- 💬 Ask me about [Java, JVM, Kotlin, Concurrency, Threads, Performance, Microservices, Containers, Kubernetes]
 - 📫 How to reach me: pablohdzvizcarra@icloud.com
 
 ## GitHub Stats
