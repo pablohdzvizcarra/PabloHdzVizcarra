@@ -18,13 +18,13 @@ During my leisure time, I find great joy in reading engaging books and cherishin
 - 💬 Ask me about [Java, JVM, Kotlin, Concurrency, Threads, Performance, Microservices, Containers, Kubernetes]
 - 📫 How to reach me: pablohdzvizcarra@icloud.com
 
-## GitHub Stats
+## Some GitHub Stats
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablohdzvizcarra&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pablohdzvizcarra)](https://git.io/streak-stats)
 
-## Top Languages
+[![trophy](https://github-profile-trophy.vercel.app/?username=pablohdzvizcarra&theme=onedark)](https://github.com/pablohdzvizcarra/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohdzvizcarra)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablohdzvizcarra&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contact Me
 
