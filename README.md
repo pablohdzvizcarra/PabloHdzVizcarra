@@ -4,27 +4,17 @@
 
 Welcome to my GitHub profile!
 
-I am a self-taught developer with a strong focus on working with Microservices architectures. I am particularly passionate about performance optimization, Clean Code principles, and Test Driven Development. Throughout my journey as a Software Developer, I have acquired knowledge through various channels including books, online courses, blogs, and YouTube. However, my current favorite method of learning is through reading books and exploring official technology documentation.
-
-Working in Agile environments where clean code practices are valued and appreciated is something that truly excites me. I strive to bring a more professional and efficient approach to the teams I work with, enabling them to respond quickly and effectively to any changes that arise.
+I am a self-taught developer with a strong focus on learning Computer Science/Software Engineering concepts. I am particularly passionate about performance optimization, Clean Code principles, and Test Driven Development. Throughout my journey as a Software Developer, I have acquired knowledge through various channels including books, online courses, blogs, and YouTube. However, my current favorite method of learning is through reading books and exploring official technology documentation.
 
 During my leisure time, I find great joy in reading engaging books and cherishing moments with my loving family, including my sons and wife.
 
 ## About Me
 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning more about Java and Storage Virtualization Technologies like RAID
-- 👯 I’m looking to collaborate on Java projects
-- 💬 Ask me about [Java, JVM, Kotlin, Concurrency, Threads, Performance, Microservices, Containers, Kubernetes]
+- 🌱 I’m currently learning more about Linux, C, C++ and Storage Virtualization Technologies
+- 👯 I’m looking to collaborate on interesting projects
+- 💬 Ask me about [Java, JVM, Unix, Concurrency, Threads, Performance, C, C++, Linux]
 - 📫 How to reach me: pablohdzvizcarra@icloud.com
-
-## Some GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pablohdzvizcarra)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pablohdzvizcarra&theme=onedark)](https://github.com/pablohdzvizcarra/github-profile-trophy)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pablohdzvizcarra&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contact Me
 
